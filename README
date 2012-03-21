@@ -1,0 +1,8 @@
+Tap Tempo RCD Breakout
+version 1.0
+
+Uses a clocker PCB to be an active RCD Breakout. A tap tempo button is wired to the board, as well as a three-position switch for tap tempo mode. 
+
+Six flip switches are also wired to the board, which outputs the appropriate gates to the breakout header (that connects to a standard RCD). The flip swithes can be jacks as well.
+
+Circuit diagram will be released at some point in the future...
